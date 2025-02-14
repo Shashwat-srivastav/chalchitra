@@ -41,20 +41,20 @@ FacelessVideo is a powerful web application designed for content creators who wa
    \⁠ \ ⁠\`
 
 2.⁠ ⁠Install dependencies:
-   \⁠ \ ⁠\`bash
+   `bash
    npm install
    # or
    yarn install
-   \⁠ \ ⁠\`
+   `
 
 3.⁠ ⁠Create a \⁠ .env.local\ ⁠ file in the root directory and add any necessary environment variables.
 
 4.⁠ ⁠Run the development server:
-   \⁠ \ ⁠\`bash
+   `bash
    npm run dev
    # or
    yarn dev
-   \⁠ \ ⁠\`
+   `
 
 5.⁠ ⁠Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
