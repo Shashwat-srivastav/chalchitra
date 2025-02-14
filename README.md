@@ -80,31 +80,6 @@ FacelessVideo is a powerful web application designed for content creators who wa
    - Use filters to analyze specific date ranges or platforms
    - Export data for further analysis if needed
 
-## Project Structure
-
-\⁠ \ ⁠\`
-facelessvideo/
-├── app/
-│   ├── dashboard/
-│   ├── create/
-│   ├── schedule/
-│   ├── analytics/
-│   ├── settings/
-│   ├── help/
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   └── ui/
-├── lib/
-├── public/
-├── styles/
-├── .env.local
-├── next.config.js
-├── package.json
-├── README.md
-└── tsconfig.json
-\⁠ \ ⁠\`
-
 ## Contributing
 
 We welcome contributions to FacelessVideo! Please follow these steps:
